@@ -1,6 +1,8 @@
 package strategy;
 
-
+/**
+ *
+ */
 public class Context {
     Strategy stg;
     public Context(Strategy stg){
